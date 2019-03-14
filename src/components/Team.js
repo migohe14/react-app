@@ -1,9 +1,10 @@
 import React from "react";
+import CardProfile from './CardProfile'
 
 function Team() {
     return (
       <div>
-        <h2>Sngular Team</h2>
+        <CardProfile />
       </div>
     );
   }
