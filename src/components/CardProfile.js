@@ -8,9 +8,6 @@ function CardProfile() {
     {name: "Borja", role: "junior fron-end", img:"https://d500.epimg.net/cincodias/imagenes/2016/07/04/lifestyle/1467646262_522853_1467646344_noticia_normal.jpg"},
     {name: "Miguel", role: "junior front-end", img:"https://d500.epimg.net/cincodias/imagenes/2016/07/04/lifestyle/1467646262_522853_1467646344_noticia_normal.jpg"},
     {name: "Manolito", role: "junior front-end", img:"https://d500.epimg.net/cincodias/imagenes/2016/07/04/lifestyle/1467646262_522853_1467646344_noticia_normal.jpg"},
-    {name: "CR7", role: "junior front-end", img:"https://d500.epimg.net/cincodias/imagenes/2016/07/04/lifestyle/1467646262_522853_1467646344_noticia_normal.jpg"},
-    {name: "Iniesta", role: "junior front-end", img:"https://d500.epimg.net/cincodias/imagenes/2016/07/04/lifestyle/1467646262_522853_1467646344_noticia_normal.jpg"},
-    {name: "Messi", role: "junior front-end", img:"https://d500.epimg.net/cincodias/imagenes/2016/07/04/lifestyle/1467646262_522853_1467646344_noticia_normal.jpg"}
   ]
     return (
       <div className="CardProfile row">
