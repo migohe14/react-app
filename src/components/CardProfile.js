@@ -4,10 +4,10 @@ import './CardProfile.css'
 
 function CardProfile() {
   var members = [
-    {name: "Javi", role: "teacher", img:"https://d500.epimg.net/cincodias/imagenes/2016/07/04/lifestyle/1467646262_522853_1467646344_noticia_normal.jpg"},
-    {name: "Borja", role: "junior fron-end", img:"https://d500.epimg.net/cincodias/imagenes/2016/07/04/lifestyle/1467646262_522853_1467646344_noticia_normal.jpg"},
-    {name: "Miguel", role: "junior front-end", img:"https://d500.epimg.net/cincodias/imagenes/2016/07/04/lifestyle/1467646262_522853_1467646344_noticia_normal.jpg"},
-    {name: "Manolito", role: "junior front-end", img:"https://d500.epimg.net/cincodias/imagenes/2016/07/04/lifestyle/1467646262_522853_1467646344_noticia_normal.jpg"},
+    {name: "Javi", role: "Teacher", img: require("../assets/teacher.jpg")},
+    {name: "Borja", role: "Junior fron-end", img: require("../assets/student2.jpg")},
+    {name: "Miguel", role: "Junior front-end", img: require("../assets/profile.jpg")},
+    {name: "Manolito", role: "Senior front-end", img: require("../assets/student.jpg")},
   ]
     return (
       <div className="CardProfile row">
